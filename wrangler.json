@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "royal-sun-ad90",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "0d9b570a-61ae-404e-bc0d-2888d1a38e28",
+      "database_name": "fancy-credit-2095-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
